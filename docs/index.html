@@ -1,10 +1,119 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Portfólio</title>
+
+    <style>
+        body{
+            margin:0;
+            font-family:Arial, Helvetica, sans-serif;
+            background:#0f172a;
+            color:white;
+        }
+
+        header{
+            text-align:center;
+            padding:60px 20px;
+            background:#1e293b;
+        }
+
+        h1{
+            font-size:48px;
+            margin-bottom:10px;
+        }
+
+        h2{
+            color:#38bdf8;
+        }
+
+        .container{
+            width:90%;
+            max-width:1000px;
+            margin:auto;
+            padding:40px 0;
+        }
+
+        .card{
+            background:#1e293b;
+            padding:20px;
+            margin-bottom:20px;
+            border-radius:12px;
+        }
+
+        a{
+            color:#38bdf8;
+            text-decoration:none;
+        }
+
+        footer{
+            text-align:center;
+            padding:20px;
+            background:#1e293b;
+        }
+    </style>
 </head>
+
 <body>
-    <h1>Meu Portfólio</h1>
-    <p>Site em desenvolvimento.</p>
+
+    <header>
+        <h1>André Claudino</h1>
+        <p>Portfólio Acadêmico e Profissional</p>
+    </header>
+
+    <div class="container">
+
+        <div class="card">
+            <h2>Sobre Mim</h2>
+            <p>
+                Estudante de Análise e Desenvolvimento de Software com interesse em desenvolvimento,
+                versionamento de código, modelagem de sistemas e tecnologias web.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Tecnologias</h2>
+            <ul>
+                <li>Git e GitHub</li>
+                <li>HTML</li>
+                <li>Python</li>
+                <li>JavaScript</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Projetos</h2>
+
+            <p>
+                <strong>Projeto 1:</strong> Página inicial do portfólio utilizando GitHub Pages.
+            </p>
+
+            <p>
+                <a href="https://github.com/tetocas/Meu-Portfolio" target="_blank">
+                    Ver Repositório no GitHub
+                </a>
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Contato</h2>
+
+            <p>Email: seuemail@exemplo.com</p>
+
+            <p>
+                LinkedIn:
+                <a href="#">
+                    Adicionar futuramente
+                </a>
+            </p>
+        </div>
+
+    </div>
+
+    <footer>
+        © 2026 - Meu Portfólio
+    </footer>
+
 </body>
 </html>
