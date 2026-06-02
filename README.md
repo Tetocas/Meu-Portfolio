@@ -1,25 +1,17 @@
-# Meu Portfólio
+## Entrega Final — PortfolioHUB + IA Gemini
 
-Repositório criado para armazenar projetos acadêmicos e pessoais, utilizando Git e GitHub para versionamento e documentação.
+Esta entrega final apresenta a implantação do PortfolioHUB, utilizando GitHub, GitHub Pages e apoio da IA Gemini durante o processo.
 
-## Estrutura do Repositório
+### Documentação da Implantação
 
-- projetos-academicos
-- projetos-pessoais
-- docs
-- site
+- [Plano de Implantação](implantacao/plano-implantacao.md)
+- [Políticas de Segurança](seguranca/politicas-seguranca.md)
+- [Checklist de Testes](testes/checklist-testes.md)
 
-## Tecnologias Utilizadas
+### Link do PortfolioHUB
 
-- Git
-- GitHub
-- HTML
-- GitHub Pages
+https://tetocas.github.io/Meu-Portfolio/
 
-## Objetivo
+### Objetivo da Entrega Final
 
-Desenvolver um portfólio profissional com projetos organizados e documentados.
-
-## Autor
-
-Mateus Carreiro
+Consolidar o portfólio digital como uma plataforma organizada, documentada, segura e publicada online.
