@@ -7,6 +7,7 @@ Esta entrega final apresenta a implantação do PortfolioHUB, utilizando GitHub,
 - [Plano de Implantação](implantacao/plano-implantacao.md)
 - [Políticas de Segurança](seguranca/politicas-seguranca.md)
 - [Checklist de Testes](testes/checklist-testes.md)
+- [Uso da IA Gemini](gemini/uso-gemini.md)
 
 ### Link do PortfolioHUB
 
